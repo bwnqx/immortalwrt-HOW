@@ -5,7 +5,7 @@
 #include "ipq6000-cmiot.dtsi"
 
 / {
-	model = "ZN M2";
+	model = "HWO SmartRouter(M2)";
 	compatible = "zn,m2", "qcom,ipq6018";
 
 	aliases {
